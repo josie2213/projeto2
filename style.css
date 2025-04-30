@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+}
+
+p{
+    color: brown;
+    background-color: beige;
+}
+
+h1{
+    color: purple;
+    text-decoration: underline;
+    font-family: Arial, verdana, sans-serif;
+    font-size: 200%;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+
+    font: italic small-caps bold 200% 'Courier New', Courier, monospace;
+
+    text-transform: none;
+}
+
+span{
+    font-weight: bold;
+    color: brown;
+}
+
+body{
+    background-color: yellowgreen;
+    background-image: url("imagens/girassol-e-flor-entenda-casa-e-jardim.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+}
